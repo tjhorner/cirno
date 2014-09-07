@@ -10,5 +10,5 @@ function checkCirno(){
 }
 $(document).ready(function(){
 	checkCirno();
-	setInterval(checkCage, 500);
+	setInterval(checkCirno, 500);
 })
