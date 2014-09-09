@@ -1,12 +1,12 @@
 {
-  "name": "NC",
+  "name": "⑨",
   "version": "1",
-  "description": "NC",
+  "description": "⑨",
   "manifest_version": 2,
     "content_scripts": [
     {
       "matches": ["*://*/*"],
-      "js": ["jquery.js", "nicolascage.js"]
+      "js": ["jquery.js", "cirno.js"]
     }
   ]
 }
