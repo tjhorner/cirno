@@ -1,13 +1,1 @@
-nicolas-cage
-============
-
-pretty much yep
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>psst<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-run nicolascage.js on any page with jquery.
-<br/><br/><br/><br/><br/>
-<a href="#how-to-nicolas-cage"><img src="http://www.dreadcentral.com/img/news/jun11/niccage.jpg"></img></a><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
-how to nicolas cage
-===================
-
-you cant.
+![](http://img2.wikia.nocookie.net/__cb20130831205109/powerlisting/images/5/5b/Cirno.jpg)
